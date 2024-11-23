@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Restaurant</title>
+    <link rel="stylesheet" href="project2.css">
+</head>
+
+<body>
+    <header>
+        <h1>Raj Rasoi Restaurant</h1>
+        <div class="grid-container">
+            <div class="one">
+                <div class="oneone">
+                    <h2>Raj Rasoi Restaurant</h2>
+                    <p>Welcome to Raj Rasoi restaurant, where fresh ingredients meet culinary creativity. <br> Join us for a memorable dining experience that’s crafted with passion, flavor, and heart!</p>
+                </div>
+            </div>
+            <div class="two">
+                <div class="navigation">
+                    <ul>
+                        <li><a href="#">Home</a></li>
+                        <li> <a href="/about.html">About</a></li>
+                        <li> <a href="/menu.html">Menu</a></li>
+                        <li> <a href="/gallery.html">Gallery</a></li>
+                        <li> <a href="/healthy.html">Healthy tips</a></li>
+                        <li> <a href="/contact.html">Contact us</a></li>
+        
+                    </ul>
+                </div>
+                <div class="img2">
+                    <a href="/burger2.html">
+                    <img src="restaurant2.jpg" alt=""></a>
+                </div>
+            </div>
+            <div class="three">
+                <h2>Welcome to our restaurant</h2>
+                <h3>Our Specialities</h3>
+                <p>Pizza<br>Burger<br>Noodles<br>Garlic bread</p>
+                <div class="img1"> 
+                    <a href="/pizza.html">
+                    <img src="restaurant1.jpg" alt=""></a>
+                </div>
+
+            </div>
+            <div class="four">
+                <h3>Dish of the day</h3>
+                Burger,pizza,garlic bread<br>Noodles<br><br>
+                <div class="offer">Special offer</div>
+                <div class="offers">
+                <div class="offer1">Pizza  20%</div>
+                <div class="offer1">Two burger 20%</div>
+                <div class="offer1">Noddles No discount</div>
+                <div class="offer1">Garlic bread 10%</div>
+                <a href="https://www.instagram.com/rajrasoirishikesh/">
+                <div id="insta" style="margin-left: 250px;"><img src="6a398e2bffd61024b7fa8c6eaf6a4e62.png" alt="insta" style="margin-top: 80px;" height="40px"></div></a>
+            </div>
+            </div>
+            <!-- <div class="five">5</div> -->
+        </div>
+    </header>
+    <div class="feed">
+        <a href="/feedback.html">
+        <button class="btn">Give feedback *</button>
+    </a>
+    </div>
+</body>
+
+</html>
